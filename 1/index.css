@@ -1,0 +1,67 @@
+.backgroundstuff{
+	background-color: #a9b1bc;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #535659;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 10;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+body, html {
+	height: 100%;
+	margin: 0px;
+	background-image: url("assets/poly.jpeg");
+}
+.caption{
+	position: absolute;
+	left: 0%;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: black;
+}
+span.border {
+	background-color: #779cd8;
+	color: white;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 10px;
+	font-family: 'Lato', sans-serif;
+}
+.maintext {
+margin: 0 auto;
+font-family: 'Lato', sans-serif;
+color: grey;
+padding: 5px;
+font-size: 15px;
+text-align: center;
+}
+.foot {
+margin: 0 auto;
+padding: 18px;
+font-size: 25px;
+text-align: center;
+cursor: pointer;
+}
+span.border2 {
+	position: absolute; 
+	bottom: 0; 
+	background-color: black;
+	color: white;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 10px;
+	font-family: 'Lato', sans-serif;
+}
