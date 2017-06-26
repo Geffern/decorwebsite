@@ -99,11 +99,11 @@
 
 /*Gallary*/
 .gallery {
-    margin: 40px;
-
+    margin: 0 40px;
+    padding-top: 50px;
     float: left;
     width: 230px;
-    padding: 0px;
+    
 
 }
 
