@@ -43,13 +43,13 @@ body {
   width: 100%;
 }
 .navbar {
+  left: 0;
     overflow: hidden;
     background-color: #535659;
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 10;
-    left: 0;
 }
 .navbar a {
     float: left;
