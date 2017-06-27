@@ -28,5 +28,5 @@ function showSlides(stay=false) {
     timeoutId = setTimeout((function(slideIndex){
     	console.log("slideIndex:", slideIndex)
     	return showSlides;
-    })(slideIndex), 4000); // Change image every 3 seconds
+    })(slideIndex), 6000); // Change image every 6 seconds
 }
