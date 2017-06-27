@@ -1,0 +1,70 @@
+
+h1{
+	color: orange;
+	padding: 40px;
+	font-size: 45px;
+	letter-spacing: 10px;
+	font-family: 'Lato', sans-serif;
+}
+.img1{
+	float: right;
+	z-index: 1;
+    opacity: .4;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #535659;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    z-index: 10;
+    left: 0;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+.rip {
+	z-index: 2;
+	color: orange;
+	width: 500px;
+	margin:60px;
+
+}
+.form {
+	width: 500px;
+	margin: 0px;
+    display: inline-block; 
+}
+footer.foot {
+margin-left: 60px;
+margin-top: 10px;
+font-size: 25px;
+text-align: center;
+
+padding-bottom: 15px;
+position: absolute;
+
+}
+a.icons{
+    float: left;
+    margin:4px; 
+    cursor: pointer;
+}
+.fdiv{
+    text-align: center;
+}
+p.foottext {
+    color: #535659;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    float: left;
+    width: 400px;
+}
